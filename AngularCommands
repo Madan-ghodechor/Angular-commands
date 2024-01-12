@@ -1,0 +1,4 @@
+angular cammands
+  * to ganerate module, component inside module and update path
+    ng g m customers --route customers --module app.module
+          customers-> module, --route -> set routes, customers --module app.module -> update mmodule.ts file
